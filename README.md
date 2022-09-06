@@ -1,6 +1,6 @@
 ### Olá, me chamo Victória 👋
 
-- 📚 Cursnado Análise e Desenvolvimento de Sistemas.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Entusiasta em HTML5, CSS3, e JavaScript.
 
 
