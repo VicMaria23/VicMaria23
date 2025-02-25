@@ -1,6 +1,5 @@
 ### Olá, me chamo Victória 👋
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas, 2º Semestre.
 - 💻 Entusiasta em HTML5, CSS3, e JavaScript.
 
 
